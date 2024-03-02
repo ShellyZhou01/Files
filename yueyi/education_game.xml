@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<educationgame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <grade gnumber="1" icon="" graphic="" sound="" totalquestion="37" totalcourse="1">
+    <title><![CDATA[Grade 1]]></title>
+    <course number="1" name="Grammar" locked="false">
+      <question>
+        <number>1</number>
+        <text><![CDATA[What do the letters make?]]></text>
+        <choice_a><![CDATA[Word]]></choice_a>
+        <choice_b><![CDATA[Sentence]]></choice_b>
+        <choice_c><![CDATA[Paragraph]]></choice_c>
+        <choice_d><![CDATA[Story]]></choice_d>
+        <correct_answer>A</correct_answer>
+      </question>
+      <question>
+        <number>2</number>
+        <text><![CDATA[What do Words make?]]></text>
+        <choice_a><![CDATA[Letter]]></choice_a>
+        <choice_b><![CDATA[Sentence]]></choice_b>
+        <choice_c><![CDATA[Paragraph]]></choice_c>
+        <choice_d><![CDATA[Story]]></choice_d>
+        <correct_answer>B</correct_answer>
+      </question>
+      <question>
+        <number>3</number>
+        <text><![CDATA[What do sentences make?]]></text>
+        <choice_a><![CDATA[Letters]]></choice_a>
+        <choice_b><![CDATA[Word]]></choice_b>
+        <choice_c><![CDATA[Paragraph]]></choice_c>
+        <choice_d><![CDATA[Story]]></choice_d>
+        <correct_answer>c</correct_answer>
+      </question>
+      <question>
+        <number>4</number>
+        <text><![CDATA[Qhat do paragraphs make?]]></text>
+        <choice_a><![CDATA[Letters]]></choice_a>
+        <choice_b><![CDATA[Word]]></choice_b>
+        <choice_c><![CDATA[Sentence]]></choice_c>
+        <choice_d><![CDATA[Story]]></choice_d>
+        <correct_answer>D</correct_answer>
+      </question>
+      <question>
+        <number>5</number>
+        <text><![CDATA[A sentence always begins with ____.]]></text>
+        <choice_a><![CDATA[a small letter]]></choice_a>
+        <choice_b><![CDATA[a period]]></choice_b>
+        <choice_c><![CDATA[a capital letter]]></choice_c>
+        <choice_d><![CDATA[a question mark]]></choice_d>
+        <correct_answer>C</correct_answer>
+      </question>
+      <question>
+        <number>6</number>
+        <text><![CDATA[____ boy can sing.]]></text>
+        <choice_a><![CDATA[the]]></choice_a>
+        <choice_b><![CDATA[The]]></choice_b>
+        <choice_c><![CDATA[he]]></choice_c>
+        <choice_d><![CDATA[she]]></choice_d>
+        <correct_answer>B</correct_answer>
+      </question>
+      <question>
+        <number>7</number>
+        <text><![CDATA[Always write the word __ with a capital letter.]]></text>
+        <choice_a><![CDATA[HE]]></choice_a>
+        <choice_b><![CDATA[WE]]></choice_b>
+        <choice_c>I</choice_c>
+        <choice_d><![CDATA[SHE]]></choice_d>
+        <correct_answer>C</correct_answer>
+      </question>
+      <question>
+        <number>8</number>
+        <text><![CDATA[Following which sentence is right?]]></text>
+        <choice_a><![CDATA[Pam and i like cats.]]></choice_a>
+        <choice_b><![CDATA[I see the van.]]></choice_b>
+        <choice_c><![CDATA[i like jam.]]></choice_c>
+        <choice_d><![CDATA[i sit on a mat.]]></choice_d>
+        <correct_answer>B</correct_answer>
+      </question>
+      <question>
+        <number>9</number>
+        <text><![CDATA[A ____ word names a person, place or thing.]]></text>
+        <choice_a><![CDATA[action]]></choice_a>
+        <choice_b><![CDATA[naming]]></choice_b>
+        <choice_c><![CDATA[describing]]></choice_c>
+        <choice_d><![CDATA[beautiful]]></choice_d>
+        <correct_answer>b</correct_answer>
+      </question>
+      <question>
+        <number>10</number>
+        <text><![CDATA[Which one is the naming word?]]></text>
+        <choice_a><![CDATA[the]]></choice_a>
+        <choice_b><![CDATA[pig]]></choice_b>
+        <choice_c><![CDATA[is]]></choice_c>
+        <choice_d><![CDATA[run]]></choice_d>
+        <correct_answer>b</correct_answer>
+      </question>
+      <question>
+        <number>11</number>
+        <text><![CDATA[Which one is the naming word?]]></text>
+        <choice_a><![CDATA[an]]></choice_a>
+        <choice_b><![CDATA[Jane]]></choice_b>
+        <choice_c><![CDATA[in]]></choice_c>
+        <choice_d><![CDATA[hot]]></choice_d>
+        <correct_answer>b</correct_answer>
+      </question>
+      <question>
+        <number>12</number>
+        <text><![CDATA[Which one is the naming word?]]></text>
+        <choice_a><![CDATA[hill]]></choice_a>
+        <choice_b><![CDATA[your]]></choice_b>
+        <choice_c><![CDATA[very]]></choice_c>
+        <choice_d><![CDATA[will]]></choice_d>
+        <correct_answer>a</correct_answer>
+      </question>
+      <question>
+        <number>13</number>
+        <text><![CDATA[Which one is the naming word?]]></text>
+        <choice_a><![CDATA[with]]></choice_a>
+        <choice_b><![CDATA[big]]></choice_b>
+        <choice_c><![CDATA[sun]]></choice_c>
+        <choice_d><![CDATA[come]]></choice_d>
+        <correct_answer>c</correct_answer>
+      </question>
+      <question>
+        <number>14</number>
+        <text><![CDATA[Which one is wrong for the special names?]]></text>
+        <choice_a><![CDATA[The begin with capital letters.]]></choice_a>
+        <choice_b><![CDATA[The names of people, places and pets are special.]]></choice_b>
+        <choice_c><![CDATA["Lynngate School" is a special name.]]></choice_c>
+        <choice_d><![CDATA[Special names can begin with lower case letter.]]></choice_d>
+        <correct_answer>d</correct_answer>
+      </question>
+      <question>
+        <number>15</number>
+        <text><![CDATA[Following, which one is wrong?]]></text>
+        <choice_a><![CDATA[I am Pam.]]></choice_a>
+        <choice_b><![CDATA[I sit on ant Hill.]]></choice_b>
+        <choice_c><![CDATA[Ron likes the lake.]]></choice_c>
+        <choice_d><![CDATA[He likes Bat Lake.]]></choice_d>
+        <correct_answer>b</correct_answer>
+      </question>
+      <question>
+        <number>16</number>
+        <text><![CDATA[Following which one is correct?]]></text>
+        <choice_a><![CDATA[The hill is on jam Street.]]></choice_a>
+        <choice_b><![CDATA[Can don go the the picnic?]]></choice_b>
+        <choice_c><![CDATA[She will go in Ham Lake.]]></choice_c>
+        <choice_d><![CDATA[I am pam.]]></choice_d>
+        <correct_answer>c</correct_answer>
+      </question>
+      <question>
+        <number>17</number>
+        <text><![CDATA[What is action words?]]></text>
+        <choice_a><![CDATA[The word names a place.]]></choice_a>
+        <choice_b><![CDATA[The word tells what happens.]]></choice_b>
+        <choice_c><![CDATA[The word tells more about a person.]]></choice_c>
+        <choice_d><![CDATA[The word tells more about a thing.]]></choice_d>
+        <correct_answer>b</correct_answer>
+      </question>
+      <question>
+        <number>18</number>
+        <text><![CDATA[Following which is the action word?]]></text>
+        <choice_a>I</choice_a>
+        <choice_b><![CDATA[sit]]></choice_b>
+        <choice_c><![CDATA[hill]]></choice_c>
+        <choice_d><![CDATA[lot]]></choice_d>
+        <correct_answer>b</correct_answer>
+      </question>
+      <question>
+        <number>19</number>
+        <text><![CDATA[Following which one is wrong about describing word?]]></text>
+        <choice_a><![CDATA[A describing word tells more about a person.]]></choice_a>
+        <choice_b><![CDATA[A describing word tells more about a place.]]></choice_b>
+        <choice_c><![CDATA[A describing word tells more about a thing.]]></choice_c>
+        <choice_d><![CDATA[A describing word tells what happens.]]></choice_d>
+        <correct_answer>d</correct_answer>
+      </question>
+      <question>
+        <number>20</number>
+        <text><![CDATA[Following which does not have a describing word?]]></text>
+        <choice_a><![CDATA[big cat]]></choice_a>
+        <choice_b><![CDATA[my bad]]></choice_b>
+        <choice_c><![CDATA[cow eats]]></choice_c>
+        <choice_d><![CDATA[black dog]]></choice_d>
+        <correct_answer>c</correct_answer>
+      </question>
+      <question>
+        <number>21</number>
+        <text><![CDATA[Following which has a describing word?]]></text>
+        <choice_a><![CDATA[cat plays]]></choice_a>
+        <choice_b><![CDATA[rat runs]]></choice_b>
+        <choice_c><![CDATA[is me]]></choice_c>
+        <choice_d><![CDATA[hot day]]></choice_d>
+        <correct_answer>d</correct_answer>
+      </question>
+      <question>
+        <number>22</number>
+        <text><![CDATA[Important words in a title are capitalized. Following which one is not correct?]]></text>
+        <choice_a><![CDATA[The Light of the Moon]]></choice_a>
+        <choice_b><![CDATA[See Many stars]]></choice_b>
+        <choice_c><![CDATA[The Sun and the Moon]]></choice_c>
+        <choice_d><![CDATA[Night and Day]]></choice_d>
+        <correct_answer>b</correct_answer>
+      </question>
+      <question>
+        <number>23</number>
+        <text><![CDATA[Important words in a title are capitalized. Following which one is correct?]]></text>
+        <choice_a><![CDATA[Where Is the Sun?]]></choice_a>
+        <choice_b><![CDATA[Many cats To See]]></choice_b>
+        <choice_c><![CDATA[Day And Night]]></choice_c>
+        <choice_d><![CDATA[How Many Pigs?]]></choice_d>
+        <correct_answer>d</correct_answer>
+      </question>
+      <question>
+        <number>24</number>
+        <text><![CDATA[What names one person, place, thing, or idea?]]></text>
+        <choice_a><![CDATA[Singular noun]]></choice_a>
+        <choice_b><![CDATA[Plural noun]]></choice_b>
+        <choice_c><![CDATA[Linking verb]]></choice_c>
+        <choice_d><![CDATA[Action word]]></choice_d>
+        <correct_answer>a</correct_answer>
+      </question>
+      <question>
+        <number>25</number>
+        <text><![CDATA[What names more than one person, place, thing, or idea?]]></text>
+        <choice_a><![CDATA[Singular noun]]></choice_a>
+        <choice_b><![CDATA[Plural noun]]></choice_b>
+        <choice_c><![CDATA[Linking verb]]></choice_c>
+        <choice_d><![CDATA[Action word]]></choice_d>
+        <correct_answer>b</correct_answer>
+      </question>
+      <question>
+        <number>26</number>
+        <text><![CDATA[Most singular nouns need an 's' at the end to become plural. Following which one is plural noun?]]></text>
+        <choice_a><![CDATA[egg]]></choice_a>
+        <choice_b><![CDATA[hat]]></choice_b>
+        <choice_c><![CDATA[girls]]></choice_c>
+        <choice_d><![CDATA[cat]]></choice_d>
+        <correct_answer>c</correct_answer>
+      </question>
+      <question>
+        <number>27</number>
+        <text><![CDATA[Most singular nouns need an 's' at the end to become plural. Following which one is not plural noun?]]></text>
+        <choice_a><![CDATA[eggs]]></choice_a>
+        <choice_b><![CDATA[hands]]></choice_b>
+        <choice_c><![CDATA[ants]]></choice_c>
+        <choice_d><![CDATA[dog]]></choice_d>
+        <correct_answer>d</correct_answer>
+      </question>
+      <question>
+        <number>28</number>
+        <text><![CDATA[Is, are, was and were are linking verbs. Following which one is wrong?]]></text>
+        <choice_a><![CDATA[Is tells about one.]]></choice_a>
+        <choice_b><![CDATA[Are tells about one.]]></choice_b>
+        <choice_c><![CDATA[Was tells about one in the past.]]></choice_c>
+        <choice_d><![CDATA[Were tells about more than one in the past.]]></choice_d>
+        <correct_answer>b</correct_answer>
+      </question>
+      <question>
+        <number>29</number>
+        <text><![CDATA[Is, are, was and were are linking verbs. Following which one is correct?]]></text>
+        <choice_a><![CDATA[Is tells about more than one.]]></choice_a>
+        <choice_b><![CDATA[Are tells about one.]]></choice_b>
+        <choice_c><![CDATA[Was tells about one in the past.]]></choice_c>
+        <choice_d><![CDATA[Were tells about one in the past.]]></choice_d>
+        <correct_answer>c</correct_answer>
+      </question>
+      <question>
+        <number>30</number>
+        <text><![CDATA[Following which is telling about one in the past?]]></text>
+        <choice_a><![CDATA[The chicks are eating.]]></choice_a>
+        <choice_b><![CDATA[The cat was napping.]]></choice_b>
+        <choice_c><![CDATA[The pig is digging.]]></choice_c>
+        <choice_d><![CDATA[They were playing.]]></choice_d>
+        <correct_answer>b</correct_answer>
+      </question>
+      <question>
+        <number>31</number>
+        <text><![CDATA[Following which is telling about more than one in the past?]]></text>
+        <choice_a><![CDATA[The chicks are eating.]]></choice_a>
+        <choice_b><![CDATA[The cat was napping.]]></choice_b>
+        <choice_c><![CDATA[The pig is digging.]]></choice_c>
+        <choice_d><![CDATA[They were playing.]]></choice_d>
+        <correct_answer>d</correct_answer>
+      </question>
+      <question>
+        <number>32</number>
+        <text><![CDATA[Following which is telling about more than one in present?]]></text>
+        <choice_a><![CDATA[The chicks are eating.]]></choice_a>
+        <choice_b><![CDATA[The cat was napping.]]></choice_b>
+        <choice_c><![CDATA[The pig is digging.]]></choice_c>
+        <choice_d><![CDATA[They were playing.]]></choice_d>
+        <correct_answer>a</correct_answer>
+      </question>
+      <question>
+        <number>33</number>
+        <text><![CDATA[Following which is telling about one in present?]]></text>
+        <choice_a><![CDATA[The chicks are eating.]]></choice_a>
+        <choice_b><![CDATA[The cat was napping.]]></choice_b>
+        <choice_c><![CDATA[The pig is digging.]]></choice_c>
+        <choice_d><![CDATA[They were playing.]]></choice_d>
+        <correct_answer>c</correct_answer>
+      </question>
+      <question>
+        <number>34</number>
+        <text><![CDATA[A telling sentence tells something and usually ends with a period. Following which is a correct telling sentence?]]></text>
+        <choice_a><![CDATA[the cat is on the mat.]]></choice_a>
+        <choice_b><![CDATA[the cat on the mat]]></choice_b>
+        <choice_c><![CDATA[The cat is on the mat.]]></choice_c>
+        <choice_d><![CDATA[The cat is on the mat]]></choice_d>
+        <correct_answer>c</correct_answer>
+      </question>
+      <question>
+        <number>35</number>
+        <text><![CDATA[Simple sentences tell a complete idea. Following which is a correct simple sentence?]]></text>
+        <choice_a><![CDATA[Pam ran.]]></choice_a>
+        <choice_b><![CDATA[good girl]]></choice_b>
+        <choice_c><![CDATA[cat sits.]]></choice_c>
+        <choice_d><![CDATA[I like jam]]></choice_d>
+        <correct_answer>a</correct_answer>
+      </question>
+      <question>
+        <number>36</number>
+        <text><![CDATA[Question sentences ask something and end with a question mark. Following which is a correct question sentence?]]></text>
+        <choice_a><![CDATA[My hat is big.]]></choice_a>
+        <choice_b><![CDATA[Where is my hat.]]></choice_b>
+        <choice_c><![CDATA[My hat is big?]]></choice_c>
+        <choice_d><![CDATA[Where is my hat?]]></choice_d>
+        <correct_answer>d</correct_answer>
+      </question>
+      <question>
+        <number>37</number>
+        <text><![CDATA[Which is wrong about exclamatory sentences?]]></text>
+        <choice_a><![CDATA[Exclamatory sentences show strong feeling.]]></choice_a>
+        <choice_b><![CDATA[They end with an exclamation mark. (!)]]></choice_b>
+        <choice_c><![CDATA[Show feeling such as excitement, surprise, or fear.]]></choice_c>
+        <choice_d><![CDATA[They end with a period.]]></choice_d>
+        <correct_answer>d</correct_answer>
+      </question>
+    </course>
+  </grade>
+  <grade gnumber="2" totalquestion="28" totalcourse="2">
+    <title><![CDATA[Grade 2]]></title>
+    <course number="1" name="Vocabulary" locked="false">
+      <question>
+        <number>1</number>
+        <text><![CDATA[An event that was not planned.]]></text>
+        <choice_a><![CDATA[Accident]]></choice_a>
+        <choice_b><![CDATA[Complained]]></choice_b>
+        <choice_c><![CDATA[Compliments]]></choice_c>
+        <choice_d><![CDATA[Confuses]]></choice_d>
+        <correct_answer>A</correct_answer>
+      </question>
+      <question>
+        <number>2</number>
+        <text><![CDATA[Used words to express unhappiness about something.]]></text>
+        <choice_a><![CDATA[lies]]></choice_a>
+        <choice_b><![CDATA[relief]]></choice_b>
+        <choice_c><![CDATA[compliments]]></choice_c>
+        <choice_d><![CDATA[opposite]]></choice_d>
+        <correct_answer>C</correct_answer>
+      </question>
+      <question>
+        <number>3</number>
+        <text><![CDATA[Uses words to express praise or admiration.]]></text>
+        <choice_a><![CDATA[accident]]></choice_a>
+        <choice_b><![CDATA[confuse]]></choice_b>
+        <choice_c><![CDATA[compliment]]></choice_c>
+        <choice_d><![CDATA[hesitate]]></choice_d>
+        <correct_answer>c</correct_answer>
+      </question>
+      <question>
+        <number>4</number>
+        <text><![CDATA[Causes someone to be mixed up about something; makes something harder to understand.]]></text>
+        <choice_a><![CDATA[complain]]></choice_a>
+        <choice_b><![CDATA[accident]]></choice_b>
+        <choice_c><![CDATA[lie]]></choice_c>
+        <choice_d><![CDATA[confuse]]></choice_d>
+        <correct_answer>d</correct_answer>
+      </question>
+      <question>
+        <number>5</number>
+        <text><![CDATA[Paused before doing something, especially because of uncertainty.]]></text>
+        <choice_a><![CDATA[panic]]></choice_a>
+        <choice_b><![CDATA[hesitate]]></choice_b>
+        <choice_c><![CDATA[confuse]]></choice_c>
+        <choice_d><![CDATA[relief]]></choice_d>
+        <correct_answer>b</correct_answer>
+      </question>
+      <question>
+        <number>6</number>
+        <text><![CDATA[Makes untrue statements told on purpose to trick people.]]></text>
+        <choice_a><![CDATA[lie]]></choice_a>
+        <choice_b><![CDATA[confuse]]></choice_b>
+        <choice_c><![CDATA[hesitate]]></choice_c>
+        <choice_d><![CDATA[opposite]]></choice_d>
+        <correct_answer>a</correct_answer>
+      </question>
+      <question>
+        <number>7</number>
+        <text><![CDATA[Completely different]]></text>
+        <choice_a><![CDATA[panic]]></choice_a>
+        <choice_b><![CDATA[lie]]></choice_b>
+        <choice_c><![CDATA[hesitate]]></choice_c>
+        <choice_d><![CDATA[opposite]]></choice_d>
+        <correct_answer>d</correct_answer>
+      </question>
+      <question>
+        <number>8</number>
+        <text><![CDATA[To feel sudden or uncontrollable fear or worry.]]></text>
+        <choice_a><![CDATA[panic]]></choice_a>
+        <choice_b><![CDATA[lie]]></choice_b>
+        <choice_c><![CDATA[hesitate]]></choice_c>
+        <choice_d><![CDATA[relief]]></choice_d>
+        <correct_answer>a</correct_answer>
+      </question>
+      <question>
+        <number>9</number>
+        <text><![CDATA[The state of being free from worry or suffering.]]></text>
+        <choice_a><![CDATA[scan]]></choice_a>
+        <choice_b><![CDATA[lie]]></choice_b>
+        <choice_c><![CDATA[relief]]></choice_c>
+        <choice_d><![CDATA[accident]]></choice_d>
+        <correct_answer>c</correct_answer>
+      </question>
+      <question>
+        <number>10</number>
+        <text><![CDATA[Looked over quickly.]]></text>
+        <choice_a><![CDATA[relief]]></choice_a>
+        <choice_b><![CDATA[lie]]></choice_b>
+        <choice_c><![CDATA[confuse]]></choice_c>
+        <choice_d><![CDATA[scan]]></choice_d>
+        <correct_answer>d</correct_answer>
+      </question>
+      <question>
+        <number>11</number>
+        <text><![CDATA[Strange or odd.]]></text>
+        <choice_a><![CDATA[relief]]></choice_a>
+        <choice_b><![CDATA[scan]]></choice_b>
+        <choice_c><![CDATA[weird]]></choice_c>
+        <choice_d><![CDATA[confuse]]></choice_d>
+        <correct_answer>c</correct_answer>
+      </question>
+      <question>
+        <number>12</number>
+        <text><![CDATA[Short stiff hairs on an animal's skin.]]></text>
+        <choice_a><![CDATA[cocoon]]></choice_a>
+        <choice_b><![CDATA[mate]]></choice_b>
+        <choice_c><![CDATA[soil]]></choice_c>
+        <choice_d><![CDATA[bristles]]></choice_d>
+        <correct_answer>d</correct_answer>
+      </question>
+      <question>
+        <number>13</number>
+        <text><![CDATA[The solid waste of an earthworm.]]></text>
+        <choice_a><![CDATA[nutrients]]></choice_a>
+        <choice_b><![CDATA[mucus]]></choice_b>
+        <choice_c><![CDATA[castings]]></choice_c>
+        <choice_d><![CDATA[mate]]></choice_d>
+        <correct_answer>c</correct_answer>
+      </question>
+      <question>
+        <number>14</number>
+        <text><![CDATA[A covering that protects something.]]></text>
+        <choice_a><![CDATA[cocoon]]></choice_a>
+        <choice_b><![CDATA[mate]]></choice_b>
+        <choice_c><![CDATA[mucus]]></choice_c>
+        <choice_d><![CDATA[soil]]></choice_d>
+        <correct_answer>a</correct_answer>
+      </question>
+      <question>
+        <number>15</number>
+        <text><![CDATA[A natural or chemical substance that promotes plant growth.]]></text>
+        <choice_a><![CDATA[mate]]></choice_a>
+        <choice_b><![CDATA[soil]]></choice_b>
+        <choice_c><![CDATA[muscle]]></choice_c>
+        <choice_d><![CDATA[fertilizer]]></choice_d>
+        <correct_answer>d</correct_answer>
+      </question>
+      <question>
+        <number>16</number>
+        <text><![CDATA[To come together to reproduce or make babies.]]></text>
+        <choice_a><![CDATA[mate]]></choice_a>
+        <choice_b><![CDATA[mucus]]></choice_b>
+        <choice_c><![CDATA[muscle]]></choice_c>
+        <choice_d><![CDATA[nutrients]]></choice_d>
+        <correct_answer>a</correct_answer>
+      </question>
+      <question>
+        <number>17</number>
+        <text><![CDATA[A thick, slimy liquid created in a body to protect tissues and keep them wet.]]></text>
+        <choice_a><![CDATA[soil]]></choice_a>
+        <choice_b><![CDATA[muscle]]></choice_b>
+        <choice_c><![CDATA[mucus]]></choice_c>
+        <choice_d><![CDATA[nutrients]]></choice_d>
+        <correct_answer>c</correct_answer>
+      </question>
+      <question>
+        <number>18</number>
+        <text><![CDATA[A type of body tissue that contracts and relaxes to allow movement.]]></text>
+        <choice_a><![CDATA[mate]]></choice_a>
+        <choice_b><![CDATA[mucus]]></choice_b>
+        <choice_c><![CDATA[muscle]]></choice_c>
+        <choice_d><![CDATA[soil]]></choice_d>
+        <correct_answer>c</correct_answer>
+      </question>
+      <question>
+        <number>19</number>
+        <text><![CDATA[Substances that living things need to live, stay healthy, and grow.]]></text>
+        <choice_a><![CDATA[muscus]]></choice_a>
+        <choice_b><![CDATA[muscle]]></choice_b>
+        <choice_c><![CDATA[soil]]></choice_c>
+        <choice_d><![CDATA[nutrients]]></choice_d>
+        <correct_answer>d</correct_answer>
+      </question>
+      <question>
+        <number>20</number>
+        <text><![CDATA[The top layer of the ground in which plants grow; dirt.]]></text>
+        <choice_a><![CDATA[soil]]></choice_a>
+        <choice_b><![CDATA[bristles]]></choice_b>
+        <choice_c><![CDATA[cocoon]]></choice_c>
+        <choice_d><![CDATA[muscle]]></choice_d>
+        <correct_answer>a</correct_answer>
+      </question>
+      <question>
+        <number>21</number>
+        <text><![CDATA[A short trip or outing to some place, usually for a special purpose and with the intention of a prompt return.]]></text>
+        <choice_a><![CDATA[excursion]]></choice_a>
+        <choice_b><![CDATA[country]]></choice_b>
+        <choice_c><![CDATA[gear]]></choice_c>
+        <choice_d><![CDATA[accident]]></choice_d>
+        <correct_answer>a</correct_answer>
+      </question>
+      <question>
+        <number>22</number>
+        <text><![CDATA[Any event that happens unexpectedly, without a deliberate plan or cause]]></text>
+        <choice_a><![CDATA[excursion]]></choice_a>
+        <choice_b><![CDATA[country]]></choice_b>
+        <choice_c><![CDATA[gear]]></choice_c>
+        <choice_d><![CDATA[accident]]></choice_d>
+        <correct_answer>d</correct_answer>
+      </question>
+    </course>
+    <course number="2" name="Reading" locked="false">
+      <question>
+        <number>1</number>
+        <text><![CDATA[Use __ to figure out what the words is. That means think about the other words in the sentence. What clues do they give?]]></text>
+        <choice_a><![CDATA[context clues]]></choice_a>
+        <choice_b><![CDATA[main idea]]></choice_b>
+        <choice_c><![CDATA[detail]]></choice_c>
+        <choice_d><![CDATA[real]]></choice_d>
+        <correct_answer>a</correct_answer>
+      </question>
+      <question>
+        <number>2</number>
+        <text><![CDATA[The __ tells what the whole story is about.]]></text>
+        <choice_a><![CDATA[context clues]]></choice_a>
+        <choice_b><![CDATA[main idea]]></choice_b>
+        <choice_c><![CDATA[detail]]></choice_c>
+        <choice_d><![CDATA[real]]></choice_d>
+        <correct_answer>b</correct_answer>
+      </question>
+      <question>
+        <number>3</number>
+        <text><![CDATA[__ are parts of a story to help you understand what the story is about.]]></text>
+        <choice_a><![CDATA[Context clues]]></choice_a>
+        <choice_b><![CDATA[Main idea]]></choice_b>
+        <choice_c><![CDATA[Details]]></choice_c>
+        <choice_d><![CDATA[Real]]></choice_d>
+        <correct_answer>c</correct_answer>
+      </question>
+      <question>
+        <number>4</number>
+        <text><![CDATA[Story events that can really happen are __.]]></text>
+        <choice_a><![CDATA[main idea]]></choice_a>
+        <choice_b><![CDATA[real]]></choice_b>
+        <choice_c><![CDATA[fantasy]]></choice_c>
+        <choice_d><![CDATA[detail]]></choice_d>
+        <correct_answer>b</correct_answer>
+      </question>
+      <question>
+        <number>5</number>
+        <text><![CDATA[Story events that are make-believe are __.]]></text>
+        <choice_a><![CDATA[real]]></choice_a>
+        <choice_b><![CDATA[fantasy]]></choice_b>
+        <choice_c><![CDATA[sequencing]]></choice_c>
+        <choice_d><![CDATA[detail]]></choice_d>
+        <correct_answer>b</correct_answer>
+      </question>
+      <question>
+        <number>6</number>
+        <text><![CDATA[__ means putting the events in a story in the order that they happened.]]></text>
+        <choice_a><![CDATA[Main idea]]></choice_a>
+        <choice_b><![CDATA[Fantasy]]></choice_b>
+        <choice_c><![CDATA[Sequencing]]></choice_c>
+        <choice_d><![CDATA[Detail]]></choice_d>
+        <correct_answer>c</correct_answer>
+      </question>
+    </course>
+  </grade>
+</educationgame>
